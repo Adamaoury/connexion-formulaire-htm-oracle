@@ -1,0 +1,1 @@
+ce code html permet de realiser un qcm.Un bout de code php y est ajoute pour assurer la connexion entre le formulaire.
